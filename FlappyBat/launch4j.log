@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\chamm\Desktop\FlappyBat\flappyBat.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\chamm\Desktop\FlappyBat\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Users\chamm\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\
+Substitute:	PATH = C:\Users\chamm\AppData\Local\Programs\Python\Python312;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\chamm\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\chamm\AppData\Local\Programs\Python\Python313\;C:\Users\chamm\AppData\Local\Programs\Python\Launcher\;C:\Users\chamm\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\bin;C:\Users\chamm\AppData\Local\Microsoft\WindowsApps;C:\Users\chamm\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\chamm\AppData\Local\GitHubDesktop\bin;C:\mingw64\bin;C:\MinGW\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.1\bin;C:\curl-8.10.1_2-win64-mingw\bin;C:\Users\chamm\.dotnet\tools;C:\Users\chamm\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\\bin
+JRE paths:	C:\Users\chamm\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\;C:\Users\chamm\AppData\Local\Programs\Python\Python312;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\chamm\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\chamm\AppData\Local\Programs\Python\Python313\;C:\Users\chamm\AppData\Local\Programs\Python\Launcher\;C:\Users\chamm\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\bin;C:\Users\chamm\AppData\Local\Microsoft\WindowsApps;C:\Users\chamm\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\chamm\AppData\Local\GitHubDesktop\bin;C:\mingw64\bin;C:\MinGW\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.1\bin;C:\curl-8.10.1_2-win64-mingw\bin;C:\Users\chamm\.dotnet\tools;C:\Users\chamm\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\\bin
+Check launcher:	C:\Users\chamm\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\bin\javaw.exe (OK)
+Version string: 1.017.000_011 / 64-Bit (OK)
+Launcher:	C:\Users\chamm\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.11.9-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\chamm\Desktop\FlappyBat\flappyBat.exe" -cp . com.mycompany.batfeet.Batfeet
+Args length:	89/32768 chars
+Exit code:	0

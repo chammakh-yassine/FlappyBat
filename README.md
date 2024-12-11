@@ -1,4 +1,4 @@
-![FlappyBat Screenshot](Screenshot 2024-12-11 111442.png)
+![FlappyBat Screenshot](https://github.com/chammakh-yassine/FlappyBat/blob/main/Screenshot%202024-12-11%20111442.png?raw=true)
 
 
 

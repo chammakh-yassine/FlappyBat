@@ -1,5 +1,4 @@
-![FlappyBat Screenshot](FlappyBat
-/Screenshot 2024-12-11 111442.png)
+![FlappyBat Screenshot](Screenshot 2024-12-11 111442.png)
 
 
 

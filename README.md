@@ -1,3 +1,7 @@
+![FlappyBat Screenshot](assets/game-screenshot.png)
+
+
+
 # FlappyBat 🦇🎮
 
 FlappyBat is a simulation of the classic Flappy Bird game, developed in Java using the Swing framework and `javax.sound`. This fun and engaging game will test your reflexes as you navigate a bat through a series of obstacles. Whether you're interested in how it was made or just want to play, this repository has you covered!
